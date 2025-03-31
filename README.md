@@ -5,7 +5,7 @@ I am a highly motivated and results-driven Software Engineer specializing in ful
 ## 🚀 My Skills
 - 🔧 Backend: Laravel, PHP, Node.js, Python
 - 🌐 Frontend: React, Next, TypeScript, Bootstrap
-- 🗄️ Database: Mysql, Postgres, MongoDB
+- 🗄️ Database: Mysql, Supabase(Postgres), MongoDB
 - 🛠️ Blockchain: Web3.js, MetaMask, EVM, Solana 
 - 🤖 RAG - Pinecone, OpenRouter, Embeddings, OpenAPI/Gemeni/Grok, etc.
 - 🌏 Geolocation and Maps: Google Maps API
