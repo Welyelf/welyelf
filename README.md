@@ -14,6 +14,15 @@ I'm a passionate software engineer from the Philippines specializing in full-sta
 ## 📊 GitHub Stats
 ![Welyelf's GitHub stats](https://github-readme-stats.vercel.app/api?username=welyelf&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=welyelf&theme=darkhub&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=welyelf&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 🚀 Contribution Graph
+![Welyelf's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=welyelf&theme=redical)
+
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/welyelf)
