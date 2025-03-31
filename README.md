@@ -31,8 +31,8 @@ I am a highly motivated and results-driven Software Engineer specializing in ful
 
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/welyelf)
-- [Twitter](https://twitter.com/welyelf)
+- [LinkedIn]([https://www.linkedin.com/in/welyelf](https://www.linkedin.com/in/welyelf-hisula-053559115/))
+- [Twitter](https://x.com/WHisula)
 - [GitHub](https://github.com/welyelf)
 
 ## 💡 Fun Fact
