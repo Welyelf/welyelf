@@ -11,6 +11,10 @@ I'm a passionate software engineer from the Philippines specializing in full-sta
 - 🔍 Data Handling: CSV Import, Excel Export
 - 📝 Others: JWT Authentication, Role-Based Access Control (RBAC), Odoo API Integration
 
+![GitHub followers](https://img.shields.io/github/followers/welyelf?style=social)
+![GitHub stars](https://img.shields.io/github/stars/welyelf?style=social)
+
+
 ## 📊 GitHub Stats
 ![Welyelf's GitHub stats](https://github-readme-stats.vercel.app/api?username=welyelf&show_icons=true&theme=radical)
 
