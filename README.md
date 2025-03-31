@@ -6,12 +6,11 @@ I am a highly motivated and results-driven Software Engineer specializing in ful
 - 🔧 Backend: Laravel, PHP, Node.js, Python
 - 🌐 Frontend: React, Next, TypeScript, Bootstrap
 - 🗄️ Database: Mysql, Postgres, MongoDB
-- 📦 E-commerce: Shopify API, Dropshipping Automation
-- 🛠️ Blockchain: Web3.js, MetaMask, RainbowKit, WAGMI
-- 🤖 RAG - Pinecone, OpenRouter, OpenAPI, etc.
+- 🛠️ Blockchain: Web3.js, MetaMask, EVM, Solana 
+- 🤖 RAG - Pinecone, OpenRouter, Embeddings, OpenAPI/Gemeni/Grok, etc.
 - 🌏 Geolocation and Maps: Google Maps API
 - 🔍 Data Handling: CSV Import, Excel Export
-- 📝 Others: JWT Authentication, Role-Based Access Control (RBAC), Odoo API Integration
+- 📝 Others: JWT Authentication, Role-Based Access Control (RBAC), API Integrations
 
 ![GitHub followers](https://img.shields.io/github/followers/welyelf?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/welyelf?style=social)
