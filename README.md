@@ -5,8 +5,10 @@ I'm a passionate software engineer from the Philippines specializing in full-sta
 ## 🚀 My Skills
 - 🔧 Backend: Laravel, PHP, Node.js, Python
 - 🌐 Frontend: React, Next, TypeScript, Bootstrap
+- 🗄️ Database: Mysql, Postgres, MongoDB
 - 📦 E-commerce: Shopify API, Dropshipping Automation
 - 🛠️ Blockchain: Web3.js, MetaMask, RainbowKit, WAGMI
+- 🤖 RAG - Pinecone, OpenRouter, OpenAPI, etc.
 - 🌏 Geolocation and Maps: Google Maps API
 - 🔍 Data Handling: CSV Import, Excel Export
 - 📝 Others: JWT Authentication, Role-Based Access Control (RBAC), Odoo API Integration
