@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Welyelf
 
-I'm a passionate software engineer from the Philippines specializing in full-stack development, blockchain, and RAG solutions.
+I am a highly motivated and results-driven Software Engineer specializing in full-stack development, blockchain technologies, and Retrieval-Augmented Generation (RAG). I have extensive experience building innovative solutions for SaaS, CRM, e-commerce, and various other applications. My commitment to delivering robust, scalable, and user-centric software drives my passion for continuous learning and professional growth.
 
 ## 🚀 My Skills
 - 🔧 Backend: Laravel, PHP, Node.js, Python
