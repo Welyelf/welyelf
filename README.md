@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Welyelf
 
-<!--
-**Welyelf/welyelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer from the Philippines specializing in full-stack development, blockchain, and RAG solutions.
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- 🔧 Backend: Laravel, PHP, Node.js, Python
+- 🌐 Frontend: React, Next, TypeScript, Bootstrap
+- 📦 E-commerce: Shopify API, Dropshipping Automation
+- 🛠️ Blockchain: Web3.js, MetaMask, RainbowKit, WAGMI
+- 🌏 Geolocation and Maps: Google Maps API
+- 🔍 Data Handling: CSV Import, Excel Export
+- 📝 Others: JWT Authentication, Role-Based Access Control (RBAC), Odoo API Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/welyelf)
+- [Twitter](https://twitter.com/welyelf)
+- [GitHub](https://github.com/welyelf)
+
+## 💡 Fun Fact
+I’m always up for learning new technologies and experimenting with innovative solutions.
