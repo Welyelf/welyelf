@@ -10,36 +10,35 @@ I am a highly motivated and results-driven Software Engineer specializing in ful
 
 ## 🚀 My Skills
 🔧 Backend
-> Node.js (Express, Fastify)
-> PHP (Laravel)
-> Python (FastAPI, scripts, data processing)
-> Queue Systems, Background Jobs, Cron/Schedulers
+- Node.js (Express, Fastify)
+- PHP (Laravel)
+- Python (FastAPI, scripts, data processing)
+- Queue Systems, Background Jobs, Cron/Schedulers
 
 🌐 Frontend
-> React.js, Next.js
-> TypeScript, JavaScript (ES6+)
-> State Management (Zustand, React Query, Redux)
-> Tailwind CSS, MUI
+- React.js, Next.js
+- TypeScript, JavaScript (ES6+)
+- State Management (Zustand, React Query, Redux)
+- Tailwind CSS, MUI
 
 ☁️ Cloud & DevOps
-> AWS (S3, EC2, IAM, Cloud Architecture)
-> DigitalOcean, Vercel, Render
-> Docker (basic usage)
-> CI/CD Pipelines
-> Cloudflare (R2, CDN, DNS, Security)
+- AWS (S3, EC2, IAM, Cloud Architecture)
+- DigitalOcean, Vercel, Render
+- Docker (basic usage)
+- CI/CD Pipelines
+- Cloudflare (R2, CDN, DNS, Security)
 
 🗄️ Database & Storage
-> PostgreSQL, MySQL
-> MongoDB
-> Query Optimization & Data Modeling
-> Object Storage (AWS S3, Cloudflare R2)
+- PostgreSQL, MySQL
+- Query Optimization & Data Modeling
+- Object Storage (AWS S3, Cloudflare R2)
 
 🤖 AI / MCP / RAG
-> Agentic AI Systems
-> OpenAI, Claude, OpenRouter
-> RAG (Retrieval-Augmented Generation)
-> MCP (Model Context Protocol) Development
-> Prompt Engineering & AI Workflows
+- Agentic AI Systems
+- OpenAI, Claude, OpenRouter
+- RAG (Retrieval-Augmented Generation)
+- MCP (Model Context Protocol) Development
+- Prompt Engineering & AI Workflows
 
 🔗 Blockchain
 > Web3.js, MetaMask Integration
